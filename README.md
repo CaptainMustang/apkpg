@@ -1,2 +1,2 @@
 # apkpg
-Ankita &amp; Prasant
+Ankita Prasant
